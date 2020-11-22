@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc86813e.chunk.css",
+    "main.js": "/static/js/main.b1b16226.chunk.js",
+    "main.js.map": "/static/js/main.b1b16226.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ea612668.chunk.js": "/static/js/2.ea612668.chunk.js",
+    "static/js/2.ea612668.chunk.js.map": "/static/js/2.ea612668.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1c66729815f67b491ca2a25083f95b33.js": "/precache-manifest.1c66729815f67b491ca2a25083f95b33.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.dc86813e.chunk.css.map": "/static/css/main.dc86813e.chunk.css.map",
+    "static/js/2.ea612668.chunk.js.LICENSE.txt": "/static/js/2.ea612668.chunk.js.LICENSE.txt",
+    "static/media/25-kadr.png": "/static/media/25-kadr.30c5cffa.png",
+    "static/media/25.png": "/static/media/25.a03e1417.png",
+    "static/media/Elton-John.png": "/static/media/Elton-John.1a642e53.png",
+    "static/media/Ivan-Groznyi.png": "/static/media/Ivan-Groznyi.609ff9c3.png",
+    "static/media/Jobs.png": "/static/media/Jobs.b1860067.png",
+    "static/media/Vysockyi.png": "/static/media/Vysockyi.2094fb2c.png",
+    "static/media/background.png": "/static/media/background.fed2f1f1.png",
+    "static/media/den-studenta.png": "/static/media/den-studenta.182c9b12.png",
+    "static/media/elka.png": "/static/media/elka.8d60e3d1.png",
+    "static/media/leto.png": "/static/media/leto.d3865570.png",
+    "static/media/olim-igry.png": "/static/media/olim-igry.4274dcd4.png",
+    "static/media/opened-window-transparent.png": "/static/media/opened-window-transparent.becac6d2.png",
+    "static/media/opened-window.png": "/static/media/opened-window.d47b83c2.png",
+    "static/media/primorskyi-krai.png": "/static/media/primorskyi-krai.f75ac4dc.png",
+    "static/media/teleskop.png": "/static/media/teleskop.53799aaf.png",
+    "static/media/window.png": "/static/media/window.ca3c1cf2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40394c.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ea612668.chunk.js",
+    "static/css/main.dc86813e.chunk.css",
+    "static/js/main.b1b16226.chunk.js"
+  ]
+}
